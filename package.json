@@ -1,0 +1,8 @@
+{
+  "name": "Anastasiia Orlovska",
+  "version": "0.0.1",
+  "devDependencies": {
+    "browser-sync": "^2.18.7",
+    "gulp": "^3.9.1"
+  }
+}
